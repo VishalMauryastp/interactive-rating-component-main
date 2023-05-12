@@ -33,6 +33,9 @@ main {
         width: 40px;
         height: 40px;
         border: none;
+        &:hover{
+          background-color: hsl(25, 97%, 53%) ;
+        }
       }
     }
     &__submit_btn {
